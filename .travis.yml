@@ -1,3 +1,4 @@
+languague: clojure
 script: "sh run-tests.sh"
 notifications:
   disabled: true
